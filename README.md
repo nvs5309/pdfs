@@ -1,2 +1,5 @@
 # pdfs
-public pdf repository
+
+Public repository for hosting my PDF documents
+
+Visit criticalgeography.net to learn more
