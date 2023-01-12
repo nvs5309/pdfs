@@ -10,7 +10,7 @@
 
 <a href="https://nvs5309.github.io/pdfs/Lab6_nvs5309.pdf">Image Analysis of Remote Sensing for Vegetation Analysis</a> (pdf)
 
-<a href="https://nvs5309.github.io/pdfs/html/Lab7_nvs5309.html"> Point Pattern Analysis </a> (html page | created with R)
+<a href="https://nvs5309.github.io/pdfs/html/Lab7_nvs5309.html"> Point Pattern Analysis </a> (html page; created with R)
 
 ## General Writing Samples
 
