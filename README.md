@@ -8,4 +8,4 @@ Visit <a href="https://www.criticalgeography.net">criticalgeography.net</a> to l
 
 <a href="https://nvs5309.github.io/pdfs/Resume_nvs5309.pdf">Resume</a>  
 
-<a href="https://nvs5309.github.io/pdfs/hub/writing-grants.md">Featured Writing Samples</a>
+<a href="https://nvs5309.github.io/pdfs/hubs/writing-grants.md">Featured Writing Samples</a>
